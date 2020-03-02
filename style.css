@@ -309,3 +309,82 @@
 .direction {
     margin-left: 9px;
 }
+
+.company {
+    display: flex;
+    margin-top: 113px;
+}
+.offer_for_women {
+    height: 529px;
+    width: 767px;
+    background-image: url(img/offer.png);
+}
+.offer_for_women_content {
+    margin-left: 39px;
+    margin-top: 146px;
+    text-transform: uppercase;
+}
+.offer_for_women_content_top {
+    font-size: 54px;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 0.03em;
+   
+
+}
+.offer_for_women_content_top span {
+    font-size: 54px;
+    font-weight: bold;
+    color: #f16d7f;
+    letter-spacing: 0.03em;
+}
+.offer_for_women_content_bottom {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    letter-spacing: 0.03em;
+}
+
+
+.black_block {
+    height: 529px;
+    width: 373px;
+    background-color: #222224;
+
+}
+.black_block_description {
+    display: flex;
+    justify-content: space-between;
+}
+.black_block_content {
+    
+    font-size: 14px;
+    font-weight: 300;
+    color: #fbfbfb;
+    letter-spacing: 0.03em;
+    line-height: 24px;
+    margin-bottom: 35px;
+    margin-top: 35px;
+    margin-right: 26px;
+   
+    
+    
+    }
+    .black_block_content h3 {
+
+    font-size: 20px;
+    font-weight: bold;
+    color: #fbfbfb;
+    letter-spacing: 0.03em;
+    
+    }
+    
+
+    .black_block_description img {
+        height: 32px;
+        width: 45px;
+        margin-right: 33px;
+        margin-left: 36px;
+        margin-top: 48px;
+     
+    }
